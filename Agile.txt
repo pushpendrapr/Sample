@@ -1,0 +1,33 @@
+Release Capacity
+How much time required to release a planned product (Which involve steps first to last)
+
+Focus Capacity
+How much really development effort needed for product development.
+
+Capacity
+Capacity is an estimated value that potentially can be delivered that is determined during PI planning. It is based on Velocity and modified for the realities of anticipated holidays, staffing absences or changes.
+
+Velocity
+Capacity of team to deliver business values.
+Define the limit of work can be done by a team in each iteration.
+Velocity is the measured results of a team averaged over time.
+
+Velocity is the average amount of work a scrum team completes during a sprint, measured in either story points or hours, and is very useful for forecasting. The product owner can use velocity to predict how quickly a team can work through the backlog
+Let's say the product owner wants to complete 500 story points in the backlog. We know that the development team generally completes 50 story points per iteration. The product owner can reasonably assume the team will need 10 iterations (give or take) to complete the required work.
+
+Load
+How much team has committed to do in one iteration out of velocity?
+Load is the committed value of the number of points the team intends to deliver in a sprint or PI. It is based on team capacity and the stories available in the backlog.
+
+
+Velocity can be understood as the speed of a moving body in a particular direction whereas acceleration is any change in the velocity of the object, with respect to time.
+
+----------------------------------
+
+Agile
+-----
+Agile software development refers to a group of software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams.
+
+Scrum
+Scrum is agile framework that helps teams to deliver customer value in small iteration (Iteration can be 2, 3, 4.. Max 30 days) 
+A lightweight framework designed to manage complex product development
