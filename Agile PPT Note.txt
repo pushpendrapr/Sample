@@ -1,0 +1,94 @@
+1. Agile and Framework
+> Thoughts from everyone why agile and whats the need of agile?
+
+2. Agile Principle
+- Total 12 principles for agile and have captured 5 out of it.
+
+3. Scrum and Values
+- Courage (Don’t be in comfortable zone and challenge yourself)
+- Commitment (For work)
+- Focus (On goal instead of doing multiple things at same time)
+- Respect (To each other in team)
+- Openness (Involve and communicate)
+
+4. Roles in Scrum Team
+Product Owner---------
+The single voice of customer and stakeholders in the team.
+One person who is responsible for the backlog.
+Accepts or rejects work. Help define ‘Done’
+Knowledgeable, empowered and engaged.
+Makes the hard calls on the scope and content.
+
+Scrum Master----------
+Coaches team to improve business results and better their processes.
+They are servant leader who help build self-organizing team.
+Facilitates scrum team events.
+Help to remove impediments/road blocks. 
+Monitoring the progress of the sprint
+Helps team estimate and increase velocity
+Assists the PO in preparing and refining the backlog for PI and Iteration Planning.
+Coaches the team on the best ways to refine their backlog and create stories.
+
+5. Agile Terminology
+
+EPIC (MS Office) => Capability (MS Word || Business Use case) => Features => User Stories
+User Story----------- (Epic, Feature, Enablers (Refactor, Spike), Stretch Item)
+As a <User Role> I want <Activity> so that <Business Value>
+•	User Role is the description of the person doing the action.
+•	Activity is what they can do with the system.
+•	Business value is why they want to do the activity.
+
+6. Agile Ceremonies
+
+7. Sprint Planning
+- Before we move to planning, we do: Estimation and high-level COA.
+- DEV and QA should understand acceptance criteria without assumptions.
+- Without proper COS how we accept US?
+- We should define the task and own in the beginning.  
+- Design session is not the place to understand COA, Show technical approach.
+Q Test approach and QA scripting. If single task the update comment.
+
+8. Stand-up
+- How many are really do this 1st part?
+- DSU is place holder to share progress for US and coordinate with team. 
+- DSU is not the time to discuss the technical things. 
+- 2 incident happened last week and issues won't come just before stand-up.
+- Send mail or schedule meeting. Ask for availability. Attach mail clarification if it's necessary.
+
+9. Backlog Grooming
+- We do estimation, identify dependency as of now.
+- Point Estimation (Planning poker, T-shirt Size, Bucket System
+
+10. Sprint Review (Code Review/SME Check)
+> Why do we need code review ?
+> Why it's happening after handing over to QA?
+
+- Code review should be done by SME, to identify loophole before QA notice.
+- Sprint review should be with PO for functionality Check, not the technical approach.
+- QA can own this as per availability.
+
+11. Retrospective
+- What we did great, Could have done better,
+- How we can improve the current process (Share ideas)
+
+12. Definition of Ready/Done
+Definition of Ready----------
+User Story Acceptance Criteria defined
+User Story dependencies identified
+User Story is testable
+User Story sized by Development Team
+Performance, Scalability & Security criteria identified, where appropriate
+Team has a good idea what it will mean to Demo the User Story
+
+Definition of Done-----------
+Coding completed and review also done.
+Unit testcases written and passed.
+Remaining hours for task set to zero and task closed
+Deployed to system test environment and passed system tests
+Relevant documentation / diagrams produced and / or updated
+The product owner must accept the story.
+Passed in UAT and signed-off.
+
+
+
+JIRA

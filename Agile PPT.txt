@@ -1,0 +1,170 @@
+Agile and Framework
+-------------------
+Agile software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams.
+
+Agile Frameworks-------
+SAFe
+Scrum
+Crystal
+Kanban
+eXtreme Programming (XP)
+Features-Driven Development
+Test-Driven Development
+
+=====================================================
+Agile Principle---------
+# Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+# Working software is the primary measure of progress.
+# Business people and developers must work together daily throughout the project.
+# The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+# Continuous attention to technical excellence and good design enhances agility.
+
+=====================================================
+Scrum  and Scrum Values
+-----------------------
+Scrum is agile framework that helps teams to deliver customer value in small iteration.
+A lightweight framework designed to manage complex product development.
+
+Scrum Values
+Courage 
+Commitment 
+Focus 
+Respect 
+Openness 
+
+======================================================
+Product Owner---------
+
+Scrum Master----------
+
+Scrum Team
+----------
+Cross functional team
+Self-Organizing, collaboration 
+Committed to task
+Deliver business values in small chunks
+Everyone who is needed to define, build and test.
+Work on items in an order set by the product owner
+
+======================================================
+
+Agile Terminology
+-----------------
+Capacity
+Load
+Velocity
+Acceleration
+
+======================================================
+Agile Terminology
+-----------------
+
+EPIC > Capability > Feature > User Story
+Enablers (Refactor, Spike), Stretch Item)
+
+As a <User Role> I want <Activity> so that <Business Value>
+•	User Role is the description of the person doing the action.
+•	Activity is what they can do with the system.
+•	Business value is why they want to do the activity.
+
+======================================================
+
+Agile Ceremonies
+----------------
+	
+1. Sprint Planning
+------------------
+•	PO presents stories in order of priority.
+•	Each story
+	-	Is discussed and analyzed by the team.
+	-	Has its acceptance criteria defined and refined.
+	-	Is estimated.
+•	The team breaks stories into tasks.
+
+==============================
+
+Acceptance Criteria
+•	Acceptance criteria provide the details of the Story from a testing point of view.
+•	Acceptance criteria express the conditions that need to be satisfied for the customer.
+•	Acceptance criteria provide context for the team, more details of the story, help the team know when they are done.
+•	Acceptance criteria are written by the customer/PO and refined by the team during backlog grooming and iteration planning.
+
+=====================================================
+
+2. Daily Stand-up
+-----------------
+o	What did I complete yesterday?
+o	What am I working on today?
+o	What is slowing me down?
+
+The DSU is not a daily status meeting for management. It is used to: 
+•	Share information about progress
+•	Coordinate activities
+•	Raise blocking issues
+
+=====================================================
+
+3. Backlog Grooming
+-------------------
+Backlog represents opportunities, not commitments.
+
+Backlog Grooming where user stories are prioritizes, right-sized and estimated. Backlog grooming is when the product owner and scrum team review items on the backlog to ensure the backlog contains the appropriate items, that they are prioritized.
+•	Removing user stories that no longer appear relevant
+•	Creating new user stories in response to newly discovered needs
+•	Re-assessing the relative priority of stories
+•	Provides time to identify dependencies and issues that could impact the next sprint. Ensures that we have a ready backlog for Sprint planning.
+
+=====================================================
+
+4. Review Meeting
+-----------------
+•	Provides the true measure of progress by showing working functionality.
+•	Preparation for the review starts with planning.
+•	Teams demonstrate every Story, Enabler.
+•	Attendees are the team and its stackholders. (Stakeholders mostly join System review instead of Sprint review)
+•	If major stackholders cannot attend, the PO should follow up individually. 
+
+=====================================================
+
+5. Retrospective
+----------------
+Agile Teams continuously adapt to new circumstances and improve the methods of value delivery.
+•	Understand where you are
+•	Foster the culture of ‘improving everywhere’
+•	Use retrospectives as summary points but not as limitations.
+•	Supports continuous learning.
+
+============================================================
+
+Definition of Ready
+
+Definition of Done
+
+What does ‘Done” mean
+Goal for the end of every Sprint:
+•	Working system
+•	No remaining work
+•	Everyone on same page regarding what was completed
+•	Standard followed
+•	Work accepted by the PO
+•	NFRs too (Non-Function requirement)
+
+=============================================================
+
+JIRA best Practices
+-------------------
+
+
+
+Backlog Refinement		Team (Own), SM and PO (Good to Have)
+Iteration Planning		SM (Own), Team and PO (Must or Good to have)
+Daily Stand-up			Team (Own), SM and PO (Optional)
+Iteration Review		SM (Own), Team and PO (Must have)
+Iteration Retrospective	Team (Own), SM and PO (Optional)
+
+
+
+
+
+
+
